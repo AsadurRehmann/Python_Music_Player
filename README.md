@@ -30,7 +30,46 @@ This is a feature-rich **Music Player built with Python (Tkinter and Pygame)**. 
 
    ```bash
    git clone https://github.com/AsadurRehmann/music-player.git
-   cd music-player
+
+   Install dependencies:
+
+This app requires the following Python libraries:
+
+`pygame
+ mutagen`
+
+Install them via pip:
+   `pip install pygame mutagen`
+Run the application:
+
+`python main.py`
+📁 Project Structure
+
+music-player/  
+│  
+├── main.py                   
+├── music_player_progress.json   
+└── songs/                   
+🛠 Tech Stack
+Language: Python 3.x
+
+GUI: Tkinter
+
+Audio Playback: Pygame
+
+Metadata Handling: Mutagen
+
+👨‍💻 Contributing
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+📄 License
+This project is licensed under the MIT License.
+
+🙋‍♂️ Author
+Asad Ur Rehman
+Feel free to connect with me for feedback or ideas!
+🔗 GitHub: AsadurRehmann
+
 
 
 
