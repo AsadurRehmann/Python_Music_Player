@@ -12,6 +12,7 @@ This is a feature-rich **Music Player built with Python (Tkinter and Pygame)**. 
 - 📊 **Most Listened Tracker**: Keeps track of which songs you play the most.
 - ⏱️ **Seek Slider**: View and scrub through song time.
 - 💾 **Save Progress**: Playback position and playlists are saved when closing the app.
+-    **Stop**: it will delete all the playlist and reset the music player .
 - 🎨 **Simple GUI**: Built using `tkinter` with a user-friendly layout.
 
 ---
