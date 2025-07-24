@@ -60,15 +60,6 @@ Audio Playback: Pygame
 
 Metadata Handling: Mutagen
 
-👨‍💻 Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
-📄 License
-This project is licensed under the MIT License.
-
-🙋‍♂️ Author
-Asad Ur Rehman
-Feel free to connect with me for feedback or ideas!
 🔗 GitHub: AsadurRehmann
 
 
